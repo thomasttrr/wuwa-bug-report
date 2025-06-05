@@ -1,0 +1,23 @@
+{
+  "id": "WUWA-MBIRLWLQ-000615F6",
+  "category": "visual-glitch",
+  "otherCategory": null,
+  "description": {
+    "encrypted": "YVANFxReFhVXRUdcEkNCVk0GF0ZVRg1CRRZUW0MUR1FaExNdF0gYR1VUUFZSRlwNDA==",
+    "method": "xor-demo"
+  },
+  "platform": "pc",
+  "files": [],
+  "metadata": {
+    "ipHash": "e53a4885cb2a62ef66858a347d477fd639700d2ece224e97f94b6c9a34a1b05e",
+    "userAgent": {
+      "encrypted": "YV0XEBl2AlBYERwITwc=",
+      "method": "xor-demo"
+    },
+    "sessionId": "f135d526b67e6d2219ca68b81e9e3571f73fe70793d19f8432c857f778130084",
+    "fingerprint": "dd250b1dfe888992a8cadb4af9ae6256c6182d459d29ff454ad3776df6a4a9db",
+    "timestamp": "2025-06-05T02:36:18.639Z",
+    "status": "pending"
+  },
+  "integrity": "dece8fc56590821c7fbc7a59d114322e27f2358546bdf7a0302af299cbd7de85"
+}
